@@ -25,7 +25,7 @@ header div:nth-child(2) h1:first-child{
 }
 /* part 2 from the logo */
 body header div p:last-child{
-    font-size: 9px;
+    font-size: 8px;
     text-align: center;
 }
 /* this is div of the whole logo */
@@ -47,7 +47,7 @@ main {
 main nav:last-child ul{
     text-align: right;
     list-style: none;
-    line-height: 25px;
+    line-height: 30px;
     margin: 0 20px 0 0;
 }
 main nav:last-child ul li a{
@@ -73,7 +73,7 @@ body section:nth-of-type(2) h2:first-of-type{
 }
 body section:last-of-type p:first-of-type{
     font-size:20px; 
-    margin: 100px 700px 0px 100px;
+    margin: 100px 900px 0px 100px;
 }
 body section:last-of-type p:last-of-type{
     font-size:20px; 
@@ -90,10 +90,10 @@ article img:first-of-type{
 article h3:first-of-type{
     font-family: 'Gilda Display', serif;
     font-size: 30px;
-    margin: 20px 0 10px 310px;
+    margin: 20px 0 10px 380px;
 }
 article p:first-of-type{
-    margin: 10px 0 100px 310px;
+    margin: 10px 0 100px 380px;
 
 }
 /* second img of the three */
@@ -107,10 +107,10 @@ article img:nth-of-type(2){
 article h3:nth-of-type(2){
     font-family: 'Gilda Display', serif;
     font-size: 30px;
-    margin: 20px 0 10px 310px;
+    margin: 20px 0 10px 380px;
 }
 article p:nth-of-type(2){
-    margin: 10px 0 100px 310px;
+    margin: 10px 0 100px 380px;
 }
 /* last */
 article img:last-of-type{
@@ -123,9 +123,9 @@ article img:last-of-type{
 article h3:last-of-type{
     font-family: 'Gilda Display', serif;
     font-size: 30px;
-    margin: 20px 0 10px 310px;
+    margin: 20px 0 10px 380px;
 }
 article p:last-of-type{
-    margin: 10px 0 100px 310px;
+    margin: 10px 0 100px 380px;
 
 }
